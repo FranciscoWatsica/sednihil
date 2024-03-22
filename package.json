@@ -1,0 +1,38 @@
+{
+  "name": "sednihil",
+  "version": "1.0.0",
+  "description": "Types and constants for Estfor Kingdom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FranciscoWatsica/sednihil.git"
+  },
+  "keywords": [
+    "estfor",
+    "estfor kingdom",
+    "sapiente",
+    "ipsum",
+    "voluptas",
+    "eveniet",
+    "paintswap",
+    "et",
+    "web3",
+    "thegraph"
+  ],
+  "module": "CommonJS",
+  "ascMain": "src/index.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "EstevanWeissnat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranciscoWatsica/sednihil.git/issues"
+  },
+  "homepage": "https://github.com/FranciscoWatsica/sednihil.git",
+  "devDependencies": {
+    "run-script-os": "^1.1.6",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "assemblyscript": "0.19.10"
+  }
+}
